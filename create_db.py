@@ -1,5 +1,5 @@
 import sqlite3
-
+ 
 DB_PATH = "quiz_bowl_db.sql"
 
 def create_tables():
